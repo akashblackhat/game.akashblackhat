@@ -35,6 +35,12 @@ Help: MarkDown Help, Markdown Cheatsheet
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
-    
-![Screenshot (12)](https://user-images.githubusercontent.com/88341460/184689754-e2f6f169-aa15-4055-a6e4-f3c086494d41.png)
+              run this code & enjoy this game
+![Screenshot (12)](https://user-images.githubusercontent.com/88341460/184689754-e2f6f169-aa15-4055-a6e4-f3c086494d41.png
+
+         any problam my code mag me - akashram8090as@gmail.com
+         
+         
+         
+                 akashblackhatt
 ![Screenshot (13)](https://user-images.githubusercontent.com/88341460/184689757-9fe36c19-ad7d-4cd1-a62f-ad2691f56e71.png)
