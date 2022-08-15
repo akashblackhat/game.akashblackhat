@@ -28,11 +28,12 @@ Help: MarkDown Help, Markdown Cheatsheet
                                            cool app 
 ![Screenshot (13)](https://user-images.githubusercontent.com/88341460/184689743-8a5796eb-cf0c-4d23-9b24-309b22f3f6de.png)
 
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
               run this code & enjoy this game
-![Screenshot (12)](https://user-images.githubusercontent.com/88341460/184689754-e2f6f169-aa15-4055-a6e4-f3c086494d41.png
+              
+              
+![Screenshot (12)](https://user-images.githubusercontent.com/88341460/184689754-e2f6f169-aa15-4055-a6e4-f3c086494d41.png)
 
          any problam my code mag me - akashram8090as@gmail.com
          
