@@ -15,7 +15,7 @@ dis_width = 600
 dis_height = 400
 
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Developer By.akashblackhat(-_-)akashram8090as@gmail.com.=python developer')
+pygame.display.set_caption('Developer By.akashblackhat(-_-).=python developer')
 
 clock = pygame.time.Clock()
 
